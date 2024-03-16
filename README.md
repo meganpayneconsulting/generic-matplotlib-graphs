@@ -1,2 +1,3 @@
-# generic-matplotlib-graphs
-Repository of generic matplotlib graphs
+# Matplotlib Graphs with Simulated Data
+
+A repository of graphs that I am collecting mostly for having the syntax available.
